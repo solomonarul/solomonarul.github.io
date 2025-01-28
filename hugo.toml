@@ -1,11 +1,14 @@
 baseURL = 'https://solomonarul.github.io/'
 languageCode = 'en-us'
 title = "solomonarul.github.io"
+copyright = "© 2025 me"
 theme = 'hugo-bearcub'
 
 [params]
     domain = "solomonarul.github.io"
+    themeStyle = "original"
     homeTitle = "The psuedo-philosopher's place to rant."
+    madeWith = "Made with [Hugo](https://gohugo.io) using the [BearCub](https://github.com/solomonarul/hugo-bearcub) theme."
 
 [markup.goldmark.renderer]
     unsafe = true
