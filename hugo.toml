@@ -1,6 +1,7 @@
 baseURL = 'https://solomonarul.github.io/'
 languageCode = 'en-us'
-title = "Index"
+title = "Home"
 theme = 'hugo-bearcub'
 [params]
+    domain = "solomonarul.github.io"
     homeTitle = "The psuedo-philosopher's place to rant."
