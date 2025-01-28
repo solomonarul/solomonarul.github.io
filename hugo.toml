@@ -1,6 +1,6 @@
 baseURL = 'https://solomonarul.github.io/'
 languageCode = 'en-us'
-title = "Home"
+title = "solomonarul.github.io"
 theme = 'hugo-bearcub'
 
 [params]
