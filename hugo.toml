@@ -1,7 +1,6 @@
 baseURL = 'https://solomonarul.github.io/'
 languageCode = 'en-us'
 title = "solomonarul.github.io"
-copyright = "© 2025 me"
 theme = 'hugo-bearcub'
 
 [params]
