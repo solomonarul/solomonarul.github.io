@@ -5,7 +5,6 @@ theme = 'hugo-bearcub'
 
 [params]
     domain = "solomonarul.github.io"
-    themeStyle = "original"
     homeTitle = "The website of all time."
     madeWith = "Made with [Hugo](https://gohugo.io) using the [BearCub](https://github.com/solomonarul/hugo-bearcub) theme."
 
