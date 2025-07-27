@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>solomonarul.github.io</title><link>https://solomonarul.github.io/</link><description>Recent content on solomonarul.github.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://solomonarul.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>https://solomonarul.github.io/posts/test-post/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/posts/test-post/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description><content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>solomonarul.github.io</title><link>https://solomonarul.github.io/</link><description>Recent content on solomonarul.github.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://solomonarul.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Socials</title><link>https://solomonarul.github.io/socials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/socials/</guid><description>&lt;p>// TODO, visit something else in the meanwhile.&lt;/p></description><content:encoded>&lt;p>// TODO, visit something else in the meanwhile.&lt;/p>
+</content:encoded></item><item><title>Test Post</title><link>https://solomonarul.github.io/posts/test-post/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/posts/test-post/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description><content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
 <p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
 <ol>
 <li>Exierant elisi ambit vivere dedere</li>
@@ -24,13 +25,21 @@
 <style>
 .canon { width: 100%; height: auto; }
 </style>]]></content:encoded></item><item><title>Doggos</title><link>https://solomonarul.github.io/gallery/doggos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/doggos/</guid><description>&lt;h2 id="bella">Bella&lt;/h2>
-&lt;div class="grid-2">
- &lt;img src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 1">
- &lt;img src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 2">
+&lt;p>    My uncle&amp;rsquo;s dog. Also best girl.&lt;/p>
+&lt;div class="w-100 d-flex pb-05">
+ &lt;img class="mx-auto w-50" src="https://solomonarul.github.io/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
+&lt;/div>
+&lt;div class="w-100 d-flex gap-05">
+ &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 1">
+ &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 2">
 &lt;/div></description><content:encoded><![CDATA[<h2 id="bella">Bella</h2>
-<div class="grid-2">
-  <img src="/gallery/doggos/20250708_183723.png" alt="Bella 1">
-  <img src="/gallery/doggos/20250708_183742.png" alt="Bella 2">
+<p>    My uncle&rsquo;s dog. Also best girl.</p>
+<div class="w-100 d-flex pb-05">
+  <img class="mx-auto w-50" src="/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
+</div>
+<div class="w-100 d-flex gap-05">
+  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 1">
+  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 2">
 </div>]]></content:encoded></item><item><title>Hearts of Iron 4 Campaigns</title><link>https://solomonarul.github.io/misc/hoi4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/misc/hoi4/</guid><description>&lt;h2 id="enchantedo-teikoku-in-hearts-of-minecraft-1169">Enchantedo Teikoku in Hearts of Minecraft (1.16.9)&lt;/h2>
 &lt;p>&lt;img src="https://solomonarul.github.io/gallery/hoi4/mc_japan.png" alt="mc_japan">&lt;/p>
 &lt;h3 id="main-division">Main division&lt;/h3>
@@ -50,4 +59,23 @@
   <img src="/gallery/hoi4/mc_japan_stats.png" alt="mc_japan_stats">
   <img src="/gallery/hoi4/mc_japan_stats_2.png" alt="mc_japan_stats_2">
 </div>
+]]></content:encoded></item><item><title>Locations</title><link>https://solomonarul.github.io/gallery/locations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/</guid><description>&lt;h3 id="croatia">Croatia&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="./zagreb">Zagreb&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="hungaristan">Hungaristan&lt;/h3>
+&lt;h3 id="romania">Romania&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="./bn-colibita">Colibița, BN&lt;/a>&lt;/li>
+&lt;li>&lt;a href="./cj-cluj">Cluj-Napoca, CJ&lt;/a>&lt;/li>
+&lt;/ul></description><content:encoded><![CDATA[<h3 id="croatia">Croatia</h3>
+<ul>
+<li><a href="./zagreb">Zagreb</a></li>
+</ul>
+<h3 id="hungaristan">Hungaristan</h3>
+<h3 id="romania">Romania</h3>
+<ul>
+<li><a href="./bn-colibita">Colibița, BN</a></li>
+<li><a href="./cj-cluj">Cluj-Napoca, CJ</a></li>
+</ul>
 ]]></content:encoded></item></channel></rss>
