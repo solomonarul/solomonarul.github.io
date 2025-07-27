@@ -12,6 +12,6 @@ description: "Pictures of dogs."
 </div>
 
 <div class="w-100 d-flex gap-05">
-  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 1">
-  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 2">
+  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 2">
+  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 3">
 </div>
