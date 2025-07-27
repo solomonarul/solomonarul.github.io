@@ -17,7 +17,7 @@ I know I could've made this 35-width by adding an anti-tank and another tank but
 
 They had almost everything the West Overworld Company has in the image as core teritory. _Yikes._
 
-Helicopters are an _absolute necesity_ to survive the supply hell that this mod creates. Also important is CAS, I was stuck with the 653 (Improved) plane designs because I forgot to change them to Advanced. {{< emoji "eto-bleh.gif" >}}
+Helicopters are an _absolute necesity_ to survive the supply hell that this mod creates. Also important is CAS, I was stuck with the 653 (Improved) plane designs because I forgot to change them to Advanced. {{< emoji "eto-bleh.wepb" >}}
 
 Pretty good campaign, decent focus tree, worthy enough for me to start making this series. Also made me actually think before using my navy, so definatelly a good way to learn that.
 
