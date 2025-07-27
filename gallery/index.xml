@@ -4,30 +4,46 @@
  &lt;img class="mx-auto w-50" src="https://solomonarul.github.io/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
 &lt;/div>
 &lt;div class="w-100 d-flex gap-05">
- &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 1">
- &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 2">
+ &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 2">
+ &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 3">
 &lt;/div></description><content:encoded><![CDATA[<h2 id="bella">Bella</h2>
 <p>    My uncle&rsquo;s dog. Also best girl.</p>
 <div class="w-100 d-flex pb-05">
   <img class="mx-auto w-50" src="/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
 </div>
 <div class="w-100 d-flex gap-05">
-  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 1">
-  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 2">
-</div>]]></content:encoded></item><item><title>Locations</title><link>https://solomonarul.github.io/gallery/locations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/</guid><description>&lt;h3 id="croatia">Croatia&lt;/h3>
+  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 2">
+  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 3">
+</div>]]></content:encoded></item><item><title>Locations</title><link>https://solomonarul.github.io/gallery/locations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/</guid><description>&lt;h3 id="misc">&lt;a href="./misc">Misc&lt;/a>&lt;/h3>
+&lt;h3 id="croatia">Croatia&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a href="./zagreb">Zagreb&lt;/a>&lt;/li>
+&lt;li>&lt;a href="./hr-opatija">Opatija&lt;/a>&lt;/li>
+&lt;li>&lt;a href="./hr-pula">Pula&lt;/a>&lt;/li>
+&lt;li>&lt;a href="./hr-rijeka">Rijeka&lt;/a>&lt;/li>
+&lt;li>&lt;a href="./hr-zagreb">Zagreb&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="hungaristan">Hungaristan&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="./hu-debrecen">Debrecen&lt;/a>&lt;/li>
+&lt;li>&lt;a href="./hu-balaton">Balaton Lake&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="romania">Romania&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="./bn-colibita">Colibița, BN&lt;/a>&lt;/li>
 &lt;li>&lt;a href="./cj-cluj">Cluj-Napoca, CJ&lt;/a>&lt;/li>
-&lt;/ul></description><content:encoded><![CDATA[<h3 id="croatia">Croatia</h3>
+&lt;/ul></description><content:encoded><![CDATA[<h3 id="misc"><a href="./misc">Misc</a></h3>
+<h3 id="croatia">Croatia</h3>
 <ul>
-<li><a href="./zagreb">Zagreb</a></li>
+<li><a href="./hr-opatija">Opatija</a></li>
+<li><a href="./hr-pula">Pula</a></li>
+<li><a href="./hr-rijeka">Rijeka</a></li>
+<li><a href="./hr-zagreb">Zagreb</a></li>
 </ul>
 <h3 id="hungaristan">Hungaristan</h3>
+<ul>
+<li><a href="./hu-debrecen">Debrecen</a></li>
+<li><a href="./hu-balaton">Balaton Lake</a></li>
+</ul>
 <h3 id="romania">Romania</h3>
 <ul>
 <li><a href="./bn-colibita">Colibița, BN</a></li>
