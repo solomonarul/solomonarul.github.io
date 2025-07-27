@@ -1,8 +1,7 @@
 ---
 title: "Pictures of Colibița, Romania"
 description: "Pictures of Colibița, Romania."
-build:
-  list: false
+list-hide: true
 ---
 
 <div class="w-100 d-flex pb-05">

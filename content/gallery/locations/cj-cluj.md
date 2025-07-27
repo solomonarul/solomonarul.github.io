@@ -1,8 +1,7 @@
 ---
 title: "Pictures of Cluj, Romania"
 description: "Pictures of Cluj, Romania."
-build:
-  list: false
+list-hide: true
 ---
 
 <div class="w-100 d-flex pb-05">

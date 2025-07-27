@@ -1,8 +1,7 @@
 ---
 title: "Pictures from random locations"
 description: "Pictures from random locations."
-build:
-  list: false
+list-hide: true
 ---
 
 <div class="w-100 d-flex pb-05">
