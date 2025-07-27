@@ -1,8 +1,8 @@
 ---
-title: "Home"
+title: "Socials"
 menu: "main"
-weight: 1
-description: "Home page."
+weight: 4
+description: "Socials."
 ---
 
 // TODO, visit something else in the meanwhile.
