@@ -5,4 +5,4 @@ weight: 5
 description: "Misc stuff."
 ---
 
-## Misc
+<h2 class="text-2xl font-bold py-4"> Misc </h2>

@@ -4,8 +4,12 @@ description: "Pictures of Rijeka, Croatia."
 list-hide: true
 ---
 
-#### // TODO, visit [something else](/random/) in the meanwhile.
+<h2 class="text-l font-bold py-4 not-prose"> 
+    // TODO, visit
+    <a href="/random/"> something else </a>
+    in the meanwhile.
+</h2>
 
-<div class="d-flex w-100">
-    <img src="/saitama.webp" class="mx-auto w-50"></img>
+<div class="flex w-full not-prose">
+    <img src="/saitama.webp" class="m-auto w-1/2"></img>
 </div>

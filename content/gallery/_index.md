@@ -5,4 +5,4 @@ weight: 3
 description: "Images."
 ---
 
-## Gallery
+<h2 class="text-2xl font-bold py-4"> Gallery </h2>

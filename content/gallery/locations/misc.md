@@ -4,6 +4,6 @@ description: "Pictures from random locations."
 list-hide: true
 ---
 
-<div class="w-100 d-flex pb-05">
-  <img class="mx-auto w-75" src="/gallery/locations/misc/20241104_082458576.png" alt="Misc 1">
+<div class="w-full flex pb-5">
+  <img class="mx-auto w-3/4" src="/gallery/locations/misc/20241104_082458576.png" alt="Misc 1">
 </div>
