@@ -6,7 +6,7 @@ theme = 'hugo-bearcub'
 [params]
     domain = "solomonarul.github.io"
     homeTitle = "The website of all time."
-    madeWith = "[Website](https://github.com/solomonarul/solomonarul.github.io) made with [Hugo](https://gohugo.io) using the [BearCub](https://github.com/solomonarul/hugo-bearcub) theme."
+    madeWith = "[Website](https://github.com/solomonarul/solomonarul.github.io) made with [Hugo](https://gohugo.io) using [BearCub](https://github.com/solomonarul/hugo-bearcub)."
 
 [markup.goldmark.renderer]
     unsafe = true

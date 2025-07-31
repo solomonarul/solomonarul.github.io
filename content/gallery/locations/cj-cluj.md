@@ -12,5 +12,5 @@ list-hide: true
   <img class="col-span-1 m-auto" src="/gallery/locations/cluj/20241027_194717916.png" alt="Cluj 2">
   <img class="col-span-1 m-auto" src="/gallery/locations/cluj/20241027_194718615.png" alt="Cluj 3">
   <img class="col-span-2 m-auto" src="/gallery/locations/cluj/20250728_090858.png" alt="Cluj 4">
+  <img class="col-span-2 m-auto" src="/gallery/locations/cluj/20250708_020458.png" alt="Cluj 5">
 </div>
-  
