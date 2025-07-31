@@ -49,72 +49,94 @@
 <li><a href="./bn-colibita">Colibița, BN</a></li>
 <li><a href="./cj-cluj">Cluj-Napoca, CJ</a></li>
 </ul>
-]]></content:encoded></item><item><title>Pictures from random locations</title><link>https://solomonarul.github.io/gallery/locations/misc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/misc/</guid><description>&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-75" src="https://solomonarul.github.io/gallery/locations/misc/20241104_082458576.png" alt="Misc 1">
-&lt;/div></description><content:encoded>&lt;div class="w-100 d-flex pb-05">
-  &lt;img class="mx-auto w-75" src="/gallery/locations/misc/20241104_082458576.png" alt="Misc 1">
-&lt;/div></content:encoded></item><item><title>Pictures of Balaton Lake, Hungaristan</title><link>https://solomonarul.github.io/gallery/locations/hu-balaton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hu-balaton/</guid><description>&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-75" src="https://solomonarul.github.io/gallery/locations/balaton/20250413_011259.png" alt="Balaton 1">
-&lt;/div></description><content:encoded>&lt;div class="w-100 d-flex pb-05">
-  &lt;img class="mx-auto w-75" src="/gallery/locations/balaton/20250413_011259.png" alt="Balaton 1">
-&lt;/div></content:encoded></item><item><title>Pictures of Cluj, Romania</title><link>https://solomonarul.github.io/gallery/locations/cj-cluj/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/cj-cluj/</guid><description>&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-50" src="https://solomonarul.github.io/gallery/locations/cluj/20241014_134943856.png" alt="Cluj 1">
+]]></content:encoded></item><item><title>Pictures from random locations</title><link>https://solomonarul.github.io/gallery/locations/misc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/misc/</guid><description>&lt;div class="w-full flex pb-5">
+ &lt;img class="mx-auto w-3/4" src="https://solomonarul.github.io/gallery/locations/misc/20241104_082458576.png" alt="Misc 1">
+&lt;/div></description><content:encoded>&lt;div class="w-full flex pb-5">
+  &lt;img class="mx-auto w-3/4" src="/gallery/locations/misc/20241104_082458576.png" alt="Misc 1">
+&lt;/div></content:encoded></item><item><title>Pictures of Balaton Lake, Hungaristan</title><link>https://solomonarul.github.io/gallery/locations/hu-balaton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hu-balaton/</guid><description>&lt;div class="w-full flex pb-5">
+ &lt;img class="mx-auto w-3/4" src="https://solomonarul.github.io/gallery/locations/balaton/20250413_011259.png" alt="Balaton 1">
+&lt;/div></description><content:encoded>&lt;div class="w-full flex pb-5">
+  &lt;img class="mx-auto w-3/4" src="/gallery/locations/balaton/20250413_011259.png" alt="Balaton 1">
+&lt;/div></content:encoded></item><item><title>Pictures of Cluj, Romania</title><link>https://solomonarul.github.io/gallery/locations/cj-cluj/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/cj-cluj/</guid><description>&lt;div class="w-full flex pb-[1em]">
+ &lt;img class="mx-auto mt-0 mb-0 w-1/2" src="https://solomonarul.github.io/gallery/locations/cluj/20241014_134943856.png" alt="Cluj 1">
 &lt;/div>
-&lt;div class="w-100 d-flex pb-05 gap-05">
- &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/locations/cluj/20241027_194717916.png" alt="Cluj 2">
- &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/locations/cluj/20241027_194718615.png" alt="Cluj 3">
-&lt;/div>
-&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-100" src="https://solomonarul.github.io/gallery/locations/cluj/20250728_090858.png" alt="Cluj 4">
-&lt;/div></description><content:encoded><![CDATA[<div class="w-100 d-flex pb-05">
-  <img class="mx-auto w-50" src="/gallery/locations/cluj/20241014_134943856.png" alt="Cluj 1">
+&lt;div class="w-full grid grid-cols-2 gap-[1em]">
+ &lt;img class="col-span-1 mx-auto mt-0 mb-0" src="https://solomonarul.github.io/gallery/locations/cluj/20241027_194717916.png" alt="Cluj 2">
+ &lt;img class="col-span-1 mx-auto mt-0 mb-0" src="https://solomonarul.github.io/gallery/locations/cluj/20241027_194718615.png" alt="Cluj 3">
+ &lt;img class="col-span-2 mx-auto mt-0 mb-0" src="https://solomonarul.github.io/gallery/locations/cluj/20250728_090858.png" alt="Cluj 4">
+&lt;/div></description><content:encoded><![CDATA[<div class="w-full flex pb-[1em]">
+  <img class="mx-auto mt-0 mb-0 w-1/2" src="/gallery/locations/cluj/20241014_134943856.png" alt="Cluj 1">
 </div>
-<div class="w-100 d-flex pb-05 gap-05">
-  <img class="w-50 h-auto m-auto" src="/gallery/locations/cluj/20241027_194717916.png" alt="Cluj 2">
-  <img class="w-50 h-auto m-auto" src="/gallery/locations/cluj/20241027_194718615.png" alt="Cluj 3">
+<div class="w-full grid grid-cols-2 gap-[1em]">
+  <img class="col-span-1 mx-auto mt-0 mb-0" src="/gallery/locations/cluj/20241027_194717916.png" alt="Cluj 2">
+  <img class="col-span-1 mx-auto mt-0 mb-0" src="/gallery/locations/cluj/20241027_194718615.png" alt="Cluj 3">
+  <img class="col-span-2 mx-auto mt-0 mb-0" src="/gallery/locations/cluj/20250728_090858.png" alt="Cluj 4">
 </div>
-<div class="w-100 d-flex pb-05">
-  <img class="mx-auto w-100" src="/gallery/locations/cluj/20250728_090858.png" alt="Cluj 4">
-</div>]]></content:encoded></item><item><title>Pictures of Colibița, Romania</title><link>https://solomonarul.github.io/gallery/locations/bn-colibita/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/bn-colibita/</guid><description>&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-50" src="https://solomonarul.github.io/gallery/locations/colibita/20250102_173109.png" alt="Colibita 1">
-&lt;/div>
-&lt;div class="w-100 d-flex gap-05">
- &lt;img class="w-75 h-auto m-auto" src="https://solomonarul.github.io/gallery/locations/colibita/20240624_165803716.png" alt="Colibita 2">
-&lt;/div></description><content:encoded><![CDATA[<div class="w-100 d-flex pb-05">
-  <img class="mx-auto w-50" src="/gallery/locations/colibita/20250102_173109.png" alt="Colibita 1">
-</div>
-<div class="w-100 d-flex gap-05">
-  <img class="w-75 h-auto m-auto" src="/gallery/locations/colibita/20240624_165803716.png" alt="Colibita 2">
-</div>]]></content:encoded></item><item><title>Pictures of Debrecen, Hungaristan</title><link>https://solomonarul.github.io/gallery/locations/hu-debrecen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hu-debrecen/</guid><description>&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-75" src="https://solomonarul.github.io/gallery/locations/debrecen/20250412_201141.png" alt="Debrecen 1">
-&lt;/div></description><content:encoded>&lt;div class="w-100 d-flex pb-05">
-  &lt;img class="mx-auto w-75" src="/gallery/locations/debrecen/20250412_201141.png" alt="Debrecen 1">
-&lt;/div></content:encoded></item><item><title>Pictures of Opatija, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-opatija/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-opatija/</guid><description>&lt;h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit &lt;a href="https://solomonarul.github.io/random/">something else&lt;/a> in the meanwhile.&lt;/h4>
-&lt;div class="d-flex w-100">
- &lt;img src="https://solomonarul.github.io/saitama.webp" class="mx-auto w-50">&lt;/img>
-&lt;/div></description><content:encoded><![CDATA[<h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit <a href="/random/">something else</a> in the meanwhile.</h4>
-<div class="d-flex w-100">
-    <img src="/saitama.webp" class="mx-auto w-50"></img>
-</div>
-]]></content:encoded></item><item><title>Pictures of Pula, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-pula/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-pula/</guid><description>&lt;h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit &lt;a href="https://solomonarul.github.io/random/">something else&lt;/a> in the meanwhile.&lt;/h4>
-&lt;div class="d-flex w-100">
- &lt;img src="https://solomonarul.github.io/saitama.webp" class="mx-auto w-50">&lt;/img>
-&lt;/div></description><content:encoded><![CDATA[<h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit <a href="/random/">something else</a> in the meanwhile.</h4>
-<div class="d-flex w-100">
-    <img src="/saitama.webp" class="mx-auto w-50"></img>
-</div>
-]]></content:encoded></item><item><title>Pictures of Rijeka, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-rijeka/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-rijeka/</guid><description>&lt;h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit &lt;a href="https://solomonarul.github.io/random/">something else&lt;/a> in the meanwhile.&lt;/h4>
-&lt;div class="d-flex w-100">
- &lt;img src="https://solomonarul.github.io/saitama.webp" class="mx-auto w-50">&lt;/img>
-&lt;/div></description><content:encoded><![CDATA[<h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit <a href="/random/">something else</a> in the meanwhile.</h4>
-<div class="d-flex w-100">
-    <img src="/saitama.webp" class="mx-auto w-50"></img>
-</div>
-]]></content:encoded></item><item><title>Pictures of Zagreb, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-zagreb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-zagreb/</guid><description>&lt;h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit &lt;a href="https://solomonarul.github.io/random/">something else&lt;/a> in the meanwhile.&lt;/h4>
-&lt;div class="d-flex w-100">
- &lt;img src="https://solomonarul.github.io/saitama.webp" class="mx-auto w-50">&lt;/img>
-&lt;/div></description><content:encoded><![CDATA[<h4 id="-todo-visit-something-else-in-the-meanwhile">// TODO, visit <a href="/random/">something else</a> in the meanwhile.</h4>
-<div class="d-flex w-100">
-    <img src="/saitama.webp" class="mx-auto w-50"></img>
+]]></content:encoded></item><item><title>Pictures of Colibița, Romania</title><link>https://solomonarul.github.io/gallery/locations/bn-colibita/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/bn-colibita/</guid><description>&lt;div class="w-full grid grid-cols-2 gap-[1em]">
+ &lt;img class="col-span-1 mx-auto mt-0 mb-0" src="https://solomonarul.github.io/gallery/locations/colibita/20250102_173109.png" alt="Colibita 1">
+ &lt;img class="col-span-1 mx-auto mt-auto mb-auto" src="https://solomonarul.github.io/gallery/locations/colibita/20240624_165803716.png" alt="Colibita 2">
+&lt;/div></description><content:encoded>&lt;div class="w-full grid grid-cols-2 gap-[1em]">
+  &lt;img class="col-span-1 mx-auto mt-0 mb-0" src="/gallery/locations/colibita/20250102_173109.png" alt="Colibita 1">
+  &lt;img class="col-span-1 mx-auto mt-auto mb-auto" src="/gallery/locations/colibita/20240624_165803716.png" alt="Colibita 2">
+&lt;/div></content:encoded></item><item><title>Pictures of Debrecen, Hungaristan</title><link>https://solomonarul.github.io/gallery/locations/hu-debrecen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hu-debrecen/</guid><description>&lt;div class="w-full flex pb-5">
+ &lt;img class="mx-auto w-3/4" src="https://solomonarul.github.io/gallery/locations/debrecen/20250412_201141.png" alt="Debrecen 1">
+&lt;/div></description><content:encoded>&lt;div class="w-full flex pb-5">
+  &lt;img class="mx-auto w-3/4" src="/gallery/locations/debrecen/20250412_201141.png" alt="Debrecen 1">
+&lt;/div></content:encoded></item><item><title>Pictures of Opatija, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-opatija/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-opatija/</guid><description>&lt;h2 class="text-l font-bold py-4 not-prose"> 
+ // TODO, visit
+ &lt;a href="https://solomonarul.github.io/random/"> something else &lt;/a>
+ in the meanwhile.
+&lt;/h2>
+&lt;div class="flex w-full not-prose">
+ &lt;img src="https://solomonarul.github.io/saitama.webp" class="m-auto w-1/2">&lt;/img>
+&lt;/div></description><content:encoded><![CDATA[<h2 class="text-l font-bold py-4 not-prose"> 
+    // TODO, visit
+    <a href="/random/"> something else </a>
+    in the meanwhile.
+</h2>
+<div class="flex w-full not-prose">
+    <img src="/saitama.webp" class="m-auto w-1/2"></img>
+</div>]]></content:encoded></item><item><title>Pictures of Pula, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-pula/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-pula/</guid><description>&lt;h2 class="text-l font-bold py-4 not-prose"> 
+ // TODO, visit
+ &lt;a href="https://solomonarul.github.io/random/"> something else &lt;/a>
+ in the meanwhile.
+&lt;/h2>
+&lt;div class="flex w-full not-prose">
+ &lt;img src="https://solomonarul.github.io/saitama.webp" class="m-auto w-1/2">&lt;/img>
+&lt;/div></description><content:encoded><![CDATA[<h2 class="text-l font-bold py-4 not-prose"> 
+    // TODO, visit
+    <a href="/random/"> something else </a>
+    in the meanwhile.
+</h2>
+<div class="flex w-full not-prose">
+    <img src="/saitama.webp" class="m-auto w-1/2"></img>
+</div>]]></content:encoded></item><item><title>Pictures of Rijeka, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-rijeka/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-rijeka/</guid><description>&lt;h2 class="text-l font-bold py-4 not-prose"> 
+ // TODO, visit
+ &lt;a href="https://solomonarul.github.io/random/"> something else &lt;/a>
+ in the meanwhile.
+&lt;/h2>
+&lt;div class="flex w-full not-prose">
+ &lt;img src="https://solomonarul.github.io/saitama.webp" class="m-auto w-1/2">&lt;/img>
+&lt;/div></description><content:encoded><![CDATA[<h2 class="text-l font-bold py-4 not-prose"> 
+    // TODO, visit
+    <a href="/random/"> something else </a>
+    in the meanwhile.
+</h2>
+<div class="flex w-full not-prose">
+    <img src="/saitama.webp" class="m-auto w-1/2"></img>
+</div>]]></content:encoded></item><item><title>Pictures of Zagreb, Croatia</title><link>https://solomonarul.github.io/gallery/locations/hr-zagreb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/hr-zagreb/</guid><description>&lt;h2 class="text-l font-bold py-4 not-prose"> 
+ // TODO, visit
+ &lt;a href="https://solomonarul.github.io/random/"> something else &lt;/a>
+ in the meanwhile.
+&lt;/h2>
+&lt;div class="flex w-full not-prose">
+ &lt;img src="https://solomonarul.github.io/saitama.webp" class="m-auto w-1/2">&lt;/img>
+&lt;/div></description><content:encoded><![CDATA[<h2 class="text-l font-bold py-4 not-prose"> 
+    // TODO, visit
+    <a href="/random/"> something else </a>
+    in the meanwhile.
+</h2>
+<div class="flex w-full not-prose">
+    <img src="/saitama.webp" class="m-auto w-1/2"></img>
 </div>
 ]]></content:encoded></item></channel></rss>
