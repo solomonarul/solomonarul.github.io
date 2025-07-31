@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gallery on solomonarul.github.io</title><link>https://solomonarul.github.io/gallery/</link><description>Recent content in Gallery on solomonarul.github.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://solomonarul.github.io/gallery/index.xml" rel="self" type="application/rss+xml"/><item><title>Doggos</title><link>https://solomonarul.github.io/gallery/doggos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/doggos/</guid><description>&lt;h2 id="bella">Bella&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gallery on solomonarul.github.io</title><link>https://solomonarul.github.io/gallery/</link><description>Recent content in Gallery on solomonarul.github.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://solomonarul.github.io/gallery/index.xml" rel="self" type="application/rss+xml"/><item><title>Doggos</title><link>https://solomonarul.github.io/gallery/doggos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/doggos/</guid><description>&lt;h3 id="bella">Bella&lt;/h3>
 &lt;p>    My uncle&amp;rsquo;s dog. Also best girl.&lt;/p>
-&lt;div class="w-100 d-flex pb-05">
- &lt;img class="mx-auto w-50" src="https://solomonarul.github.io/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
+&lt;div class="w-full flex pb-[1em]">
+ &lt;img class="mx-auto w-1/2 mt-0 mb-0" src="https://solomonarul.github.io/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
 &lt;/div>
-&lt;div class="w-100 d-flex gap-05">
- &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 2">
- &lt;img class="w-50 h-auto m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 3">
-&lt;/div></description><content:encoded><![CDATA[<h2 id="bella">Bella</h2>
+&lt;div class="w-full grid grid-cols-2 gap-[1em]">
+ &lt;img class="col-span-1 mx-auto mt-0 mb-0" src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 2">
+ &lt;img class="col-span-1 mx-auto mt-0 mb-0" src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 3">
+&lt;/div></description><content:encoded><![CDATA[<h3 id="bella">Bella</h3>
 <p>    My uncle&rsquo;s dog. Also best girl.</p>
-<div class="w-100 d-flex pb-05">
-  <img class="mx-auto w-50" src="/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
+<div class="w-full flex pb-[1em]">
+  <img class="mx-auto w-1/2 mt-0 mb-0" src="/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
 </div>
-<div class="w-100 d-flex gap-05">
-  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 2">
-  <img class="w-50 h-auto m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 3">
+<div class="w-full grid grid-cols-2 gap-[1em]">
+  <img class="col-span-1 mx-auto mt-0 mb-0" src="/gallery/doggos/20250708_183723.png" alt="Bella 2">
+  <img class="col-span-1 mx-auto mt-0 mb-0" src="/gallery/doggos/20250708_183742.png" alt="Bella 3">
 </div>]]></content:encoded></item><item><title>Locations</title><link>https://solomonarul.github.io/gallery/locations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/locations/</guid><description>&lt;h3 id="misc">&lt;a href="./misc">Misc&lt;/a>&lt;/h3>
 &lt;h3 id="croatia">Croatia&lt;/h3>
 &lt;ul>
