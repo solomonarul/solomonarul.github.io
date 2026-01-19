@@ -39,22 +39,85 @@
 <style>
 .canon { width: 100%; height: auto; }
 </style>]]></content:encoded></item><item><title>Doggos</title><link>https://solomonarul.github.io/gallery/doggos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/gallery/doggos/</guid><description>&lt;h3 id="bella"&gt;Bella&lt;/h3&gt;
-&lt;p&gt;    My uncle&amp;rsquo;s dog. Also best girl.&lt;/p&gt;
-&lt;div class="w-full flex pb-[1em] not-prose"&gt;
- &lt;img class="m-auto w-1/2" src="https://solomonarul.github.io/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1"&gt;
-&lt;/div&gt;
-&lt;div class="w-full grid grid-cols-2 gap-[1em] not-prose"&gt;
- &lt;img class="col-span-1 m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png" alt="Bella 2"&gt;
- &lt;img class="col-span-1 m-auto" src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png" alt="Bella 3"&gt;
+&lt;p&gt;    My uncle&amp;rsquo;s dog. Look at this silly little goober.&lt;/p&gt;
+&lt;div class="grid grid-cols-2 gap-2 px-4 sm:grid-cols-3 md:grid-cols-4 rounded-lg bg-black/30"&gt;
+ &lt;p class="rounded-lg hover:bg-white/10"&gt;
+ &lt;img
+ src="https://solomonarul.github.io/gallery/doggos/20241116_143040_1_1.webp"
+ alt="Bella 1"
+ loading="lazy"
+ decoding="async"
+ class="w-full aspect-[1/1] object-cover rounded-lg"
+ /&gt;
+ &lt;/p&gt;
+ &lt;p class="rounded-lg hover:bg-white/10"&gt;
+ &lt;img
+ src="https://solomonarul.github.io/gallery/doggos/20250708_183723.png"
+ alt="Bella 2"
+ loading="lazy"
+ decoding="async"
+ class="w-full aspect-[1/1] object-cover rounded-lg"
+ /&gt;
+ &lt;/p&gt;
+ &lt;p class="rounded-lg hover:bg-white/10"&gt;
+ &lt;img
+ src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png"
+ alt="Bella 3"
+ loading="lazy"
+ decoding="async"
+ class="w-full aspect-[1/1] object-cover rounded-lg"
+ /&gt;
+ &lt;/p&gt;
+ &lt;p class="rounded-lg hover:bg-white/10"&gt;
+ &lt;img
+ src="https://solomonarul.github.io/gallery/doggos/20250708_183742.png"
+ alt="Bella 3"
+ loading="lazy"
+ decoding="async"
+ class="w-full aspect-[1/1] object-cover rounded-lg"
+ /&gt;
+ &lt;/p&gt;
 &lt;/div&gt;</description><content:encoded><![CDATA[<h3 id="bella">Bella</h3>
-<p>    My uncle&rsquo;s dog. Also best girl.</p>
-<div class="w-full flex pb-[1em] not-prose">
-  <img class="m-auto w-1/2" src="/gallery/doggos/20241116_143040_1_1.webp" alt="Bella 1">
+<p>    My uncle&rsquo;s dog. Look at this silly little goober.</p>
+<div class="grid grid-cols-2 gap-2 px-4 sm:grid-cols-3 md:grid-cols-4 rounded-lg bg-black/30">
+  <p class="rounded-lg hover:bg-white/10">
+    <img
+      src="/gallery/doggos/20241116_143040_1_1.webp"
+      alt="Bella 1"
+      loading="lazy"
+      decoding="async"
+      class="w-full aspect-[1/1] object-cover rounded-lg"
+    />
+  </p>
+  <p class="rounded-lg hover:bg-white/10">
+    <img
+      src="/gallery/doggos/20250708_183723.png"
+      alt="Bella 2"
+      loading="lazy"
+      decoding="async"
+      class="w-full aspect-[1/1] object-cover rounded-lg"
+    />
+  </p>
+   <p class="rounded-lg hover:bg-white/10">
+    <img
+      src="/gallery/doggos/20250708_183742.png"
+      alt="Bella 3"
+      loading="lazy"
+      decoding="async"
+      class="w-full aspect-[1/1] object-cover rounded-lg"
+    />
+  </p>
+  <p class="rounded-lg hover:bg-white/10">
+    <img
+      src="/gallery/doggos/20250708_183742.png"
+      alt="Bella 3"
+      loading="lazy"
+      decoding="async"
+      class="w-full aspect-[1/1] object-cover rounded-lg"
+    />
+  </p>
 </div>
-<div class="w-full grid grid-cols-2 gap-[1em] not-prose">
-  <img class="col-span-1 m-auto" src="/gallery/doggos/20250708_183723.png" alt="Bella 2">
-  <img class="col-span-1 m-auto" src="/gallery/doggos/20250708_183742.png" alt="Bella 3">
-</div>]]></content:encoded></item><item><title>Hearts of Iron 4 Campaigns</title><link>https://solomonarul.github.io/misc/hoi4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/misc/hoi4/</guid><description>&lt;h2 id="enchantedo-teikoku-in-hearts-of-minecraft-1169"&gt;Enchantedo Teikoku in Hearts of Minecraft (1.16.9)&lt;/h2&gt;
+]]></content:encoded></item><item><title>Hearts of Iron 4 Campaigns</title><link>https://solomonarul.github.io/misc/hoi4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/misc/hoi4/</guid><description>&lt;h2 id="enchantedo-teikoku-in-hearts-of-minecraft-1169"&gt;Enchantedo Teikoku in Hearts of Minecraft (1.16.9)&lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://solomonarul.github.io/gallery/hoi4/mc_japan.png" alt="mc_japan"&gt;&lt;/p&gt;
 &lt;h3 id="main-division"&gt;Main division&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://solomonarul.github.io/gallery/hoi4/mc_japan_tonk.png" alt="mc_japan_tonk"&gt;&lt;/p&gt;
