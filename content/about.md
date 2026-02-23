@@ -1,7 +1,8 @@
 ---
-title: "Pictures of Rijeka, Croatia"
-description: "Pictures of Rijeka, Croatia."
-list-hide: true
+title: "About"
+menu: "main"
+weight: 4
+description: "About me."
 ---
 
 <h2 class="text-l font-bold py-4 not-prose"> 
