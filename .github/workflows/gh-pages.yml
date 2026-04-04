@@ -27,8 +27,10 @@ jobs:
           node-version: 18
 
       - name: Setup Tailwind CSS
-        run: npm install --save-dev tailwindcss @tailwindcss/cli @tailwindcss/typography
-
+        run: |
+          npm install --save-dev tailwindcss @tailwindcss/cli @tailwindcss/typography
+          npm install @tailwindcss/oxide-linux-x64-gnu
+      
       - name: Build
         run: hugo --minify --gc --destination ./public --source . --themesDir ./themes --baseURL https://solomonarul.github.io/
 
