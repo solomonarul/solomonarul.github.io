@@ -12,5 +12,5 @@ description: "Home page."
 </h2>
 
 <div class="flex w-full not-prose">
-    <img src="/saitama.webp" class="m-auto w-1/2"></img>
+    <img src="/saitama.gif" class="m-auto w-1/2"></img>
 </div>
