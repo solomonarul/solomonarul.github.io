@@ -5,7 +5,7 @@ About me.</description><content:encoded><![CDATA[<h2 class="text-l font-bold py-
     in the meanwhile.
 </h2>
 <div class="flex w-full not-prose">
-    <img src="/saitama.webp" class="m-auto w-1/2"></img>
+    <img src="/saitama.gif" class="m-auto w-1/2"></img>
 </div>
 ]]></content:encoded></item><item><title>Test Post</title><link>https://solomonarul.github.io/posts/test-post/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/posts/test-post/</guid><description>
 Post full of Lorem Ipsums.</description><content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
@@ -34,10 +34,10 @@ Post full of Lorem Ipsums.</description><content:encoded><![CDATA[<p>Lorem est t
 .canon { width: 100%; height: auto; }
 </style>
 ]]></content:encoded></item><item><title>Random</title><link>https://solomonarul.github.io/random/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://solomonarul.github.io/random/</guid><description>
-&lt;h2 class="text-xl font-semibold text-center py-4"&gt; Redirecting to a random page... &lt;/h2&gt;
+&lt;h2 class="text-xl font-semibold text-center py-4"&gt; Redirecting to a random post... &lt;/h2&gt;
 &lt;div class="d-flex w-full"&gt;
- &lt;img src="https://solomonarul.github.io/random-kongming.webp" class="mx-auto w-1/2"&gt;&lt;/img&gt;
-&lt;/div&gt;</description><content:encoded><![CDATA[<h2 class="text-xl font-semibold text-center py-4"> Redirecting to a random page... </h2>
+ &lt;img src="https://solomonarul.github.io/random-kongming.gif" class="mx-auto w-1/2"&gt;&lt;/img&gt;
+&lt;/div&gt;</description><content:encoded><![CDATA[<h2 class="text-xl font-semibold text-center py-4"> Redirecting to a random post... </h2>
 <div class="d-flex w-full">
-    <img src="/random-kongming.webp" class="mx-auto w-1/2"></img>
+    <img src="/random-kongming.gif" class="mx-auto w-1/2"></img>
 </div>]]></content:encoded></item></channel></rss>
